@@ -44,7 +44,7 @@ Credits to the original dataset owner:
 
 ## Reference
 
-NAJWAPUTRIF. (2025). *Sentiment Analysis Review Aplikasi Gojek*. Kaggle. [Click here](https://www.kaggle.com/code/najwaputrif/sentiment-analysis-review-aplikasi-gojek/notebook)
+Najwaputrif. (2025). *Sentiment Analysis Review Aplikasi Gojek*. Kaggle. [Click here](https://www.kaggle.com/code/najwaputrif/sentiment-analysis-review-aplikasi-gojek/notebook)
 
 ## Copyright
 
