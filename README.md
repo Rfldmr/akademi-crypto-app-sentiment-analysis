@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h2>⭐️ Akademi Crypto App Sentiment Analysis</h2>
+<h2>Akademi Crypto App Sentiment Analysis</h2>
 
 <br>
 
