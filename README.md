@@ -40,11 +40,11 @@ Credits to the original dataset owner:
 
 ## Model Evaluation
 
-<img src ="./Asset/classrep.png" width="80%">
+<img src ="./Asset/classrep.png" width="40%">
 
 ## Reference
 
-Vlaskovits, P. (2024). *Water Quality Classification*. Kaggle. [Click here](https://www.kaggle.com/code/petervlaskovits/water-quality-classification)
+NAJWAPUTRIF. (2025). *Sentiment Analysis Review Aplikasi Gojek*. Kaggle. [Click here](https://www.kaggle.com/code/najwaputrif/sentiment-analysis-review-aplikasi-gojek/notebook)
 
 ## Copyright
 
