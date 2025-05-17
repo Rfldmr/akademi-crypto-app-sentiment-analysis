@@ -38,28 +38,10 @@ To find out the sentiment of the users of the "Akademi Crypto" app, I conducted 
 Credits to the original dataset owner:
 - Aditya, K. (2021). Water Quality.
 
-## How to Use This Code?
-
-We welcome contributions to this project. Please follow these steps to contribute:
-
-1. **Clone this repository to your computer** (`git clone https://github.com/Rfldmr/smare.ai-smart-automation-report.git`)
-2. **Read the requirements.txt file in the repository, make sure you have installed everything needed according to the version listed.**
-3. **Open the file named app.py which is in the repository.**
-4. **Install the Streamlit framework with the following command** (`pip install streamlit`).
-5. **Run the following command to run the program on localhost** (`python -m streamlit run app.py`).
-
 ## Model Metrics & Confusion Matrix
 
-- **Model Metrics**
-
-1. Accuracy score: 0.6121814791796146
-2. Precision score: 0.5228136882129277
-3. Recall score: 0.4243827160493827
-4. F1-Score: 0.4684838160136286
-
-- **Confusion Matrix**
-
-<img src ="./Asset/confusionmatrix.png" width="40%">
+- Model Metrics
+- Confusion Matrix
 
 ## Reference
 
