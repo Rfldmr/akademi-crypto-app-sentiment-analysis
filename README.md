@@ -40,7 +40,7 @@ Credits to the original dataset owner:
 
 ## Model Evaluation
 
-<img src ="./Asset/classrep.png" width="40%">
+<img src ="./Asset/classrep.png" width="60%">
 
 ## Reference
 
