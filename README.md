@@ -18,13 +18,7 @@ To find out the sentiment of the users of the "Akademi Crypto" app, I conducted 
 
 ## Project Link
 
-[Click here](https://www.kaggle.com/code/rfldmr/akademi-crypto-app-sentiment-analysis) to take you to Kaggle.
-
-## Features
-
-- Create automatic reports in PDF format.
-- Automatically predict water quality categories with AI.
-- Download PDF feature to generate print-ready reports.
+[Click here](https://www.kaggle.com/code/rfldmr/akademi-crypto-app-sentiment-analysis) to take you to Kaggle website.
 
 ## Tech Stack
 
