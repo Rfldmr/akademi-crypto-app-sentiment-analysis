@@ -14,11 +14,11 @@
 
 ## Overview
 
-SMARE AI is an AI-based automatic report generation system for water quality testing certification. Supported by the Gradient Booster algorithm, SMARE AI can predict water quality categories with test result data inputted by users and automatically generate test certificate reports in PDF format.
+To find out the sentiment of the users of the "Akademi Crypto" app, I conducted a sentiment analysis of user reviews with data from the Google Playstore. With the help of various visualizations such as WordCloud, Donut Plot, Bar Chart, and others, useful insights can be displayed for app developers.
 
 ## Project Link
 
-[Click here](https://smare-ai.streamlit.app/) to take you to the SMARE AI project website.
+[Click here](https://www.kaggle.com/code/rfldmr/akademi-crypto-app-sentiment-analysis) to take you to Kaggle.
 
 ## Features
 
