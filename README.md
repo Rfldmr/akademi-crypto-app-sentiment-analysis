@@ -22,26 +22,25 @@ To find out the sentiment of the users of the "Akademi Crypto" app, I conducted 
 
 ## Tech Stack
 
-- **Python**:  A versatile programming language used for web development, machine learning, and more.
-- **Streamlit**: A Python library for creating interactive web apps for data science and machine learning.
-- **Scikit-Learn**: Scikit-learn is a Python library that provides an efficient implementation of Gradient Boosting.
-- **Joblib**: Joblib is a Python library for saving and loading pre-trained machine learning models.
-- **Gradient Boosting**: A machine learning algorithm that combines many weak models to produce a strong predictive model.
-- **GitHub**: A platform for help host and managing code projects.
+- **Python**: A versatile programming language used extensively in web development, data science, and AI.
+- **NLTK**: A Python library for natural language processing tasks, offering tools for text analysis and understanding.
+- **Scikit-learn**: A popular Python machine learning library providing various algorithms, including Random Forest and Gradient Boosting.
+- **Random Forest**: An ensemble learning method that combines multiple decision trees for improved prediction accuracy.
+- **VaderSentiment**: A tool for sentiment analysis, determining the emotional tone of text.
+- **GitHub**: A platform for collaborative software development, hosting, and version control.
   
 ## Dataset
 
-[Click here](https://drive.google.com/drive/folders/187IDqx69aEmxg5I9n4lfnlSLM2MbENEh?usp=sharing) or check the "Dataset" folder in the repository to access the dataset.
+[Click here](https://www.kaggle.com/datasets/rfldmr/akademi-crypto-app-google-playstore-review) or check the "Dataset" folder in the repository to access the dataset.
 
 <br>
 
 Credits to the original dataset owner:
-- Aditya, K. (2021). Water Quality.
+- Rafli, D. (2025). Akademi Crypto App Google Playstore Review.
 
-## Model Metrics & Confusion Matrix
+## Model Evaluation
 
-- Model Metrics
-- Confusion Matrix
+<img src ="./Asset/classrep.png" width="80%">
 
 ## Reference
 
