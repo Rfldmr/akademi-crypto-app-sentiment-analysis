@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<h2>📄 SMARE.AI: Smart Automation Report</h2>
+<h2>📲 Akademi Crypto App Sentiment Analysis</h2>
 
 <br>
 
-<img src ="./Asset/homepage.png" width="80%">
+<img src ="./Asset/screen1.png" width="80%">
 
 </div>
 
